@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlamningsuppgift2", "Inlamningsuppgift2\Inlamningsuppgift2.csproj", "{7CC321A7-DD7A-4F5E-991D-6B9489E04DDC}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQL Project", "SQL Project\SQL Project.sqlproj", "{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC321A7-DD7A-4F5E-991D-6B9489E04DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC321A7-DD7A-4F5E-991D-6B9489E04DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC321A7-DD7A-4F5E-991D-6B9489E04DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC321A7-DD7A-4F5E-991D-6B9489E04DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CD88DA-CA0D-47B2-AC37-386A0E98AF59}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
